@@ -621,8 +621,8 @@ ol,ul {
 }
 
 .wdcDiv {
-    margin-top: 40px;
-    margin-bottom: 120px;
+    margin-top: 1000px;
+    margin-bottom: 30px;
 }
 
 @media (min-width: 780px) {
@@ -1104,8 +1104,8 @@ ol,ul {
 .container-footer {
     background-color: #20232a;
     color: #ffffff;
-    padding-top: 10px;
-    padding-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 30px;
 }
 
 @media (min-width: 2000px) {
@@ -1180,3 +1180,8 @@ ol,ul {
     margin-left: 5px;
     color: #6d6d6d;
 }
+
+#tablemargin {
+    margin-bottom: 1px;
+}
+
